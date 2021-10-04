@@ -7,3 +7,17 @@
     text-align: center;
     background-color: chocolate;
 }
+
+.container {
+    padding: 10%;
+    text-align: center;
+}
+
+h3 {
+    font-size: 40px;
+}
+
+.download {
+    background-color: chocolate;
+    border: none;
+}
