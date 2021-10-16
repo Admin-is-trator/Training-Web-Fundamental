@@ -10,8 +10,11 @@ var satu = array[1];
 console.log(satu);
 
 var mobil = ["toyota","suzuki"]
+var motor = {
+  "honda","beat"
+};
 
-mobil[0] = "dIMASta"
+mobil[0] = "dIMASta";
 console.log(mobil[0]);
 
 console.log(array.length);
